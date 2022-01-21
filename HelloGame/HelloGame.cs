@@ -79,7 +79,7 @@ namespace HelloGame
             _spriteBatch.Draw(ballTex, ballPos, Color.White);
 
             _spriteBatch.End();
-
+            //Comment Added lol
             base.Draw(gameTime);
         }
     }
